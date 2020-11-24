@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.mustafaynk:SnackToa:v1.0.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a2131706a24b647c794d61b4af554df6/jetified-SnackToa-v1.0.0/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a2131706a24b647c794d61b4af554df6/jetified-SnackToa-v1.0.0/res" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/a2131706a24b647c794d61b4af554df6/jetified-SnackToa-v1.0.0/AndroidManifest.xml" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.mustafaynk/SnackToa/v1.0.0/89b3c5391e0c85d9f0ddb6147d2485d2d4f179ba/SnackToa-v1.0.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>

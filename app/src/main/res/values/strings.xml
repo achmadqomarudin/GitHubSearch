@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">GitHub Search</string>
+    <string name="notDefinedText">Not defined</string>
+    <string name="repoDetailUserDetailsTitle">User Details</string>
+    <string name="repoDetailRepoDetailsTitle">Repository Details</string>
+    <string name="repoDetailRepoDescTitle">Repository Description</string>
+    <string name="repoDetailForkCountTitle">Fork Count</string>
+    <string name="repoDetailLangTitle">Language</string>
+    <string name="repoDetailBranchTitle">Branch Name</string>
+    <string name="repoDetailProgressTitle">Getting repository details</string>
+    <string name="repoSearchHeaderTitle">Welcome</string>
+    <string name="repoSearchHeaderSubTitle">Let\'s search repo \nin GitHub</string>
+    <string name="repoSearchBarHint">Search Repository</string>
+    <string name="repoSearchNoResult">No Result \nTry a more general keyword</string>
+    <string name="repoSearchProgressTitle">Search repositorys</string>
+    <string name="userDetailFollowersTitle">Followers</string>
+    <string name="userDetailFollowingTitle">Following</string>
+    <string name="userDetailReposTitle">Repos</string>
+    <string name="userDetailUserRepositorysTitle">User Repositorys</string>
+    <string name="userDetailProgressTitle">Getting user details</string>
+
+
+    <!-- URL Parameters-->
+
+    <string name="userRepositoriesUrlParameters">users/%1s/repos?per_page=5&amp;page=%2s</string>
+    <string name="searchRepositoriesUrlParameters">"?q=%1s&amp;per_page=5&amp;page=%2s</string>
+
+</resources>
